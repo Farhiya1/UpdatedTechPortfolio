@@ -120,10 +120,59 @@ p {
   border-bottom-right-radius: 800px;
   border-bottom-left-radius: 90px;
 }
+
+/* Project cards */
+.project-card {
+  width: 300px;
+  height: 500px;
+  box-shadow: 5px 5px 20px rgb(197, 195, 195);
+  border-bottom-left-radius: 20px;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-top-right-radius: 20px;
+  margin: 10px;
+  background-color: white;
+}
+
+.project-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+@media only screen and (max-width: 1000px) {
+  .project-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+
+/* Project Images */
+.project-image {
+  margin-top: 25px;
+  width: 250px;
+}
+
 /* Horizontal line break inbetween image and text in about me */
 hr {
   margin-left: 20px;
   margin-right: 20px;
+}
+
+/* Links to Projects and CV */
+.project-link {
+  text-decoration: none;
+  color: gray;
+}
+
+.cv-link {
+  text-decoration: none;
+  color: aqua;
+  font-size: x-large;
+}
+
+a {
+  text-decoration: none;
+  color: white;
 }
 @media only screen and (max-width: 480px) {
   .nav {
