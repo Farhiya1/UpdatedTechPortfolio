@@ -4,6 +4,26 @@ body {
   margin: 0;
 }
 
+/* About me and Projects Section */
+section {
+  background-color: white;
+}
+
+/* Hero Section */
+.hero {
+  background-color: #1c1d25;
+  height: 100vh;
+  color: white;
+  font-size: 40px;
+}
+
+/* Footer Section With Contact Me Info */
+footer {
+  background-color: #1c1d25;
+  color: white;
+  text-align: center;
+  padding: 80px;
+}
 /* Nav  */
 nav {
   display: flex;
