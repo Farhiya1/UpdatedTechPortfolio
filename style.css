@@ -24,3 +24,15 @@ li {
   text-decoration: none;
 }
 
+  nav {
+    display: flex;
+    flex-direction: column-reverse;
+    background-color: #2b2c38;
+  }
+
+  ul {
+    display: none;
+    background-color: #2b2c38;
+    margin: 0ppx;
+  }
+}
