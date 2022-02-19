@@ -89,6 +89,20 @@ p {
 .social {
   margin: 20px;
 }
+.sub-section {
+  display: flex;
+  justify-content: space-around;
+  padding: 80px;
+  margin-left: 20px;
+}
+
+.second-sub-section {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 80px;
+  margin-left: 50px;
+}
 @media only screen and (max-width: 480px) {
   .nav {
     display: block;
