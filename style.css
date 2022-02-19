@@ -24,6 +24,22 @@ li {
   text-decoration: none;
 }
 
+/* Text Elements */
+h1 {
+  font-size: 70px;
+  margin: 0;
+}
+
+h2 {
+  font-size: 50px;
+}
+
+p {
+  margin: 0;
+  font-size: 30px;
+  font-weight: 300;
+}
+
 /* Hero Section */
 .hero-section {
   display: flex;
