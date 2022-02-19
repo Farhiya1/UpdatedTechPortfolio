@@ -40,6 +40,11 @@ p {
   font-weight: 300;
 }
 
+.subtext {
+  font-size: 15px;
+  font-weight: 300;
+}
+
 /* Hero Section */
 .hero-section {
   display: flex;
