@@ -57,6 +57,28 @@ p {
   margin-left: 80px;
   margin-bottom: 200px;
 }
+/* Button Section */
+.button {
+  width: 200px;
+  height: 55px;
+  border-radius: 30px;
+  background-color: greenyellow;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 300;
+  padding-top: 10px;
+  margin-top: 20px;
+}
+
+.button:hover {
+  background-color: aqua;
+}
+
+.button:active {
+  background-color: #a9a9a9;
+  color: #808080;
+}
+
 .socials {
   padding-bottom: 200px;
 }
