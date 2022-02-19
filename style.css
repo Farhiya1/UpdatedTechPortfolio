@@ -120,11 +120,11 @@ p {
   border-bottom-right-radius: 800px;
   border-bottom-left-radius: 90px;
 }
-a {
-  text-decoration: none;
-  color: white;
+/* Horizontal line break inbetween image and text in about me */
+hr {
+  margin-left: 20px;
+  margin-right: 20px;
 }
-
 @media only screen and (max-width: 480px) {
   .nav {
     display: block;
