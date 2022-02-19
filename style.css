@@ -36,6 +36,13 @@ li {
   margin-left: 80px;
   margin-bottom: 200px;
 }
+.logo {
+  height: 80px;
+  margin: 30px;
+}
+.social {
+  margin: 20px;
+}
   nav {
     display: flex;
     flex-direction: column-reverse;
