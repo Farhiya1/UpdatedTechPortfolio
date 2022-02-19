@@ -1,17 +1,17 @@
-# UpdatedTechPortfolio
+# Updated Tech Portfolio
 
-# Why did we build this project?
+# Why did I build this project?
 
 To update my first tech portfolio to be more polished and responsive in design.Therefore, I have worked on creating a new layout as well as sections to seprate content on the page. This updated portfolio will include my Project 1 which was collaborative work as well as two exemplary homework assignments.
 
 To also include an updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
 My motivation behind this is to prepare myself to be in a position to start applying for jobs by displaying my skills through my professional portfolio. Therefore having also inlcuded an updated Linkedin account and CV to better transition into a role as a web developer.
 
-# So far we have achieved?
+# So far I have achieved?
 
 1. To update my tech portfolio successfully. The previous version (https://farhiya1.github.io/TechPortfolio/) I lacked a lot of skills, which I was able to build on over the past few weeks to update it now to how I initially envisoned it.
 
-# What we intend to add in the near future?
+# What I intend to add in the near future?
 
 1. To continue to build on it with the skills I continue to gain. I would like to make it more interactive using Javascript.
 
