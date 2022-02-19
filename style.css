@@ -103,6 +103,23 @@ p {
   padding: 80px;
   margin-left: 50px;
 }
+/* Picture in About me */
+.profileImage {
+  width: 300px;
+  min-height: 10px;
+  border-radius: 800px;
+}
+
+/* Picture container in about me */
+.profileImage-container {
+  display: flex;
+  align-items: center;
+  background-color: turquoise;
+  border-top-left-radius: 80px;
+  border-top-right-radius: 800px;
+  border-bottom-right-radius: 800px;
+  border-bottom-left-radius: 90px;
+}
 @media only screen and (max-width: 480px) {
   .nav {
     display: block;
