@@ -1,2 +1,71 @@
 # UpdatedTechPortfolio
-Updated Tech Portfolio
+
+# Why did we build this project?
+
+To update my first tech portfolio to be more polished and responsive in design.Therefore, I have worked on creating a new layout as well as sections to seprate content on the page. This updated portfolio will include my Project 1 which was collaborative work as well as two exemplary homework assignments.
+
+To also include an updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
+My motivation behind this is to prepare myself to be in a position to start applying for jobs by displaying my skills through my professional portfolio. Therefore having also inlcuded an updated Linkedin account and CV to better transition into a role as a web developer.
+
+# So far we have achieved?
+
+1. To update my tech portfolio successfully. The previous version (https://farhiya1.github.io/TechPortfolio/) I lacked a lot of skills, which I was able to build on over the past few weeks to update it now to how I initially envisoned it.
+
+# What we intend to add in the near future?
+
+1. To continue to build on it with the skills I continue to gain. I would like to make it more interactive using Javascript.
+
+# To access this project the following links are provided:
+
+To access Github Repository
+
+1. https://github.com/Farhiya1/UpdatedTechPortfolio
+
+To access Application deployed at live URL
+
+2. https://farhiya1.github.io/UpdatedTechPortfolio/
+
+# Screenshot of deployed application)
+
+1. Screenshot displaying Portfolio (Home Page)
+
+![Screenshot of completed application](./images/Screenshot1-HomePage.png)
+
+2. Screenshot of About Me Page
+
+![Screenshot of completed application](./images/Screenshot2-AboutMe.png)
+
+3. Screenshot of Projects Page
+
+![Screenshot of completed application](./images/Screenshot3-ProjectsPage.png)
+
+4. Screenshot of Contact me section
+   ![Screenshot of completed application](./images/Screenshot4-ContactMeSection.png).
+
+5. Screenshot displaying responsiveness of website
+   ![Screenshot of completed application](./images/Screenshot5-ResponsiveView.png).
+
+6. Image of me for profile.
+   ![Image for profile](./images/ProfileShot.PNG).
+
+7. Screenshot of CV
+   ![Screenshot of Resume](./images/FARHIYA-MAHAMUD-CV.png).
+
+8. Screenshot displaying project 1 - Events API
+   ![Screenshot of completed application](./images/Screenshot1-Events-API.png).
+
+9. Screenshot displaying project 2 - Work Planner
+   ![Screenshot of completed application](./images/screencapture2-WorkPlanner.png).
+
+10. Screenshot displaying project 3 - Random Password Generator
+    ![Screenshot of completed application](./images/screenshot-PasswordGenerator.png).
+
+11. Screenshot displaying project 4 - Weather Dashboard
+    ![Screenshot of completed application](./images/screencapture-WeatherApp.png).
+
+# References
+
+1. https://www.w3schools.com/css/default.asp
+2. https://getflywheel.com/layout/flexbox-create-modern-card-design-layout/
+3. https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout
+4. https://birmingham.bootcampcontent.com/university-of-birmingham/
