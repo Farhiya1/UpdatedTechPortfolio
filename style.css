@@ -120,6 +120,10 @@ p {
   border-bottom-right-radius: 800px;
   border-bottom-left-radius: 90px;
 }
+a {
+  text-decoration: none;
+  color: white;
+}
 @media only screen and (max-width: 480px) {
   .nav {
     display: block;
