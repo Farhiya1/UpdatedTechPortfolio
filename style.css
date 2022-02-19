@@ -62,6 +62,17 @@ p {
 .social {
   margin: 20px;
 }
+@media only screen and (max-width: 480px) {
+  .nav {
+    display: block;
+    border: 0;
+    background-color: transparent;
+    color: white;
+    font-size: 30px;
+    margin: 20px;
+    align-self: flex-end;
+  }
+
   nav {
     display: flex;
     flex-direction: column-reverse;
