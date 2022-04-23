@@ -2,14 +2,14 @@
 
 # Why did I build this project?
 
-To update my first tech portfolio to be more polished and responsive in design.Therefore, I have worked on creating a new layout as well as sections to seprate content on the page. This updated portfolio will include my Project 1 which was collaborative work as well as two exemplary homework assignments.
+To update my tech portfolio. This updated portfolio will include my Project 1 and Project 2 which was collaborative work as well as two exemplary homework assignments.
 
-To also include an updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
+To also include an updated GitHub profile with pinned repositories featuring Project 2 and two exemplary assignments.
 My motivation behind this is to prepare myself to be in a position to start applying for jobs by displaying my skills through my professional portfolio. Therefore having also inlcuded an updated Linkedin account and CV to better transition into a role as a web developer.
 
 # So far I have achieved?
 
-1. To update my tech portfolio successfully. The previous version (https://farhiya1.github.io/TechPortfolio/) I lacked a lot of skills, which I was able to build on over the past few weeks to update it now to how I initially envisoned it.
+1. To update my tech portfolio successfully. The previous version (https://farhiya1.github.io/TechPortfolio/).
 
 # What I intend to add in the near future?
 
@@ -37,7 +37,7 @@ To access Application deployed at live URL
 
 3. Screenshot of Projects Page
 
-![Screenshot of completed application](./images/Screenshot3-ProjectsPage.png)
+![Screenshot of completed application](./images/Screenshot3-project2.png)
 
 4. Screenshot of Contact me section
    ![Screenshot of completed application](./images/Screenshot4-ContactMeSection.png).
@@ -57,8 +57,8 @@ To access Application deployed at live URL
 9. Screenshot displaying project 2 - Work Planner
    ![Screenshot of completed application](./images/screencapture2-WorkPlanner.png).
 
-10. Screenshot displaying project 3 - Random Password Generator
-    ![Screenshot of completed application](./images/screenshot-PasswordGenerator.png).
+10. Screenshot displaying project 3 - Project 2
+    ![Screenshot of completed application](./images/Screenshot2.png).
 
 11. Screenshot displaying project 4 - Weather Dashboard
     ![Screenshot of completed application](./images/screencapture-WeatherApp.png).
